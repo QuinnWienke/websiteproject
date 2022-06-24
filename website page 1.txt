@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.firstHeader {
+  padding-top: 220px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+ text-align:center;
+ font-size: 80px;
+ font-family: 'Noto Sans JP', sans-serif;
+}
+body {
+ 
+  background-image: url(https://images.pexels.com/photos/3952047/pexels-photo-3952047.jpeg);
+  background-size:cover;
+}
+.clean {
+text-align:center;
+font-size:35px;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* nav bar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: ;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;text-color
+
+}
+
+li a:hover {
+  background-color: white;
+  
+}
+/* end nav bar*/
+
+.fresh3 {
+float:left;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+</style>
+</head>
+<body>
+<ul>
+<li><a href="#contact"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">Contact</a></li>
+  <li><a href="#about"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">Menu</a></li>
+  <li><a class="active" href="#home"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">Home</a></li>
+  <div class="fresh3">
+  <li align="left"><a class="freshest"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">Freshest</a></li>
+  </div>
+  
+</ul>
+<hr>
+<div class="firstHeader">
+<h1<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet"> Freshest </h1>
+
+<hr color= "white" size="5px">
+</div>
+<div class="clean">
+<h3<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet"> Clean, Healthy, Always Fresh Foods </h3>
+</div>
+
+
+
+
+
+</html>

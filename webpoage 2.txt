@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.flex-container1 {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+
+
+.flex-container1 > div {
+  background-color: #f1f1f1;
+  width: 50%;
+  margin:fill;
+  text-align: center;
+  line-height: 275px;
+  font-size: 30px;
+  
+}
+.flex-container2 {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  
+}
+.flex-container2 > div {
+  background-color: #f1f1f1;
+  width: -50%;
+  margin: ;
+  text-align: center;
+  line-height: 275px;
+  font-size: 30px;
+   align-items: right;
+  justify-content: right;
+  }
+</style>
+</head>
+<body>
+
+
+
+<div class="flex-container1">
+  <img class="item" src="https://mappassrl.com/foto/pane.jpg" alt="Example image">
+  
+  <div class="flex-container2">
+  <div>11</div>
+
+  <div class="flex-container2">
+  <img class="item" src="https://pbs.twimg.com/media/Ei1_EtjWsAIpjNR?format=jpg&name=4096x4096" alt="Example image">
+  <p>hi</p>
+
+
+
+</div>
+
+</body>
+</html>

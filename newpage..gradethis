@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.firstHeader {
+  padding-top: 220px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+ text-align:center;
+ font-size: 80px;
+ font-family: 'Noto Sans JP', sans-serif;
+}
+body {
+
+  background-image: url(https://images.pexels.com/photos/3952047/pexels-photo-3952047.jpeg);
+ background-size: contain;
+  background-repeat: no-repeat;
+}
+.clean {
+text-align:center;
+font-size:35px;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* nav bar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: ;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;text-color
+
+}
+
+li a:hover {
+  background-color: white;
+
+}
+/* end nav bar*/
+
+.fresh3 {
+float:left;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+
+
+
+/*page2*/
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
+}
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
+}
+.c3 {
+  float: left;
+  width: 15%;
+  padding: 5px;
+  
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/*box 2*/
+
+* {
+  box-sizing: border-box;
+}
+
+.column2 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
+}
+.column12 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
+}
+.c32 {
+  float: left;
+  width: 15%;
+  padding: 5px;
+  
+}
+
+
+/* Clearfix (clear floats) */
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/*end box 2*/
+
+/*box3*/
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
+}
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
+}
+.c3 {
+  float: left;
+  width: 15%;
+  padding: 5px;
+  
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/*end box3*/
+
+
+
+
+
+</style>
+</head>
+<body>
+<ul>
+<li><a href="#contact"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">Contact</a></li>
+  <li><a href="#about"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">Menu</a></li>
+  <li><a class="active" href="#home"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">Home</a></li>
+  <div class="fresh3">
+  <li align="left"><a class="freshest"><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">Freshest</a></li>
+  </div>
+
+</ul>
+<hr>
+<div class="firstHeader">
+<h1<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet"> Freshest </h1>
+
+<hr color= "white" size="5px">
+</div>
+<div class="clean">
+<h3<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet"> Clean, Healthy, Always Fresh Foods </h3>
+</div>
+
+<div class="row">
+  <div class="column">
+    <p alt="Snow" style="width:145%" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets .</p>
+  </div>
+  <div class="row">
+  <div class="c3">
+  <p></P>
+  </div>
+  
+ 
+   <div class="column12">
+    <img src="https://mappassrl.com/foto/pane.jpg" alt="Mountains" style="width:150%">
+  </div>
+</div>
+
+ <!--box 2-->
+  <div class="column12">
+    <img src=""C:\Users\qwien\Desktop\green-pineapple-fruit-with-brown-framed-sunglasses-beside-1161547.jpg"" alt="pineapple" style="width:150%">
+  </div>
+ 
+<div class="row2">
+  <div class="column2">
+    <p alt="Snow" style="width:145%" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets .</p>
+  </div>
+  <div class="row2">
+  <div class="c32">
+  <p></P>
+  </div>
+  
+  
+ 
+</div>
+<!--end box2-->
+
+<!--box3-->
+<div class="row">
+  <div class="column">
+    <p alt="Snow" style="width:145%" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets .</p>
+  </div>
+  <div class="row">
+  <div class="c3">
+  <p></P>
+  </div>
+  
+ 
+   <div class="column12">
+    <img src="https://pbs.twimg.com/media/Ei1_EtjWsAIpjNR?format=jpg&name=4096x4096" alt="Mountains" style="width:120%">
+  </div>
+</div>
+<!--end box3-->
+
+
+
+
+</html>
